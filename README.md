@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about technology and love to create
 Here are a few projects I'm proud of:
 
 1. [Show-Mania-v2.0](https://github.com//Show-Mania-v2.0.git): Built a Modern web application using flask as a backend, vuejs as frontend, celery to do async jobs and redis for caching and scheding tasks. This can be used as a platform for theater owners to display their shows and normal users can book their tickets from this application.
-2. [Grocery-Web-Application](https://github.com/HarshOfficial03/Grocery_Web_App): Built a simple web application using flask and jinja to book movie tickets.
+2. [Grocery-Web-Application](https://github.com/HarshOfficial03/Grocery_Web_App): Built a simple web application using flask and jinja to purchase grocery and goods online.
 
   
 Feel free to explore my repositories to see more of my work!
