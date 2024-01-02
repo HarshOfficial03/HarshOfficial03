@@ -23,6 +23,7 @@ Here are a few projects I'm proud of:
 1. [Show-Mania-v2.0](https://github.com//Show-Mania-v2.0.git): Built a Modern web application using flask as a backend, vuejs as frontend, celery to do async jobs and redis for caching and scheding tasks. This can be used as a platform for theater owners to display their shows and normal users can book their tickets from this application.
 2. [Grocery-Web-Application](https://github.com/HarshOfficial03/Grocery_Web_App): Built a simple web application using flask and jinja to purchase grocery and goods online.
 3. [Drowsiness_Detection](https://github.com/HarshOfficial03/Drowsiness_Detection): Flask-based Drowsiness Detection System utilizing machine learning models and computer vision for real-time monitoring, enhancing safety in activities like driving by issuing timely alerts to prevent potential accidents.
+4. [Prediction using supervised ML Project](https://github.com/HarshOfficial03/GRIPJULY22-TASK1-): Flask-based Drowsiness Detection System utilizing machine learning models and computer vision for real-time monitoring, enhancing safety in activities like driving by issuing timely alerts to prevent potential accidents.
   
 Feel free to explore my repositories to see more of my work!
 
