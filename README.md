@@ -30,7 +30,7 @@ Feel free to explore my repositories to see more of my work!
 
 I'm always eager to connect with fellow developers, collaborate on exciting projects, or just chat about technology. You can reach out to me via:
 
-- 📧 Email: gsoni.2301@gmail.com
+- 📧 Email: harshvardhankumawat9@gmail.com
 - 💬 [LinkedIn](https://www.linkedin.com/in/harshvardhankumawatofficial/)
 
 
